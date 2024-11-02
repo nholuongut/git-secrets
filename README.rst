@@ -2,14 +2,6 @@
 git-secrets
 ===========
 
--------------------------------------------------------------------------------------------
-Prevents you from committing passwords and other sensitive information to a git repository.
--------------------------------------------------------------------------------------------
-
-![](https://i.imgur.com/waxVImv.png)
-### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
-<br/>
-
 Prevents you from committing passwords and other sensitive information to a git repository.
 
 .. contents:: :depth: 2
