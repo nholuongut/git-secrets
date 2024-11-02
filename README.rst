@@ -1,5 +1,5 @@
 ===========
-git-secrets
+Git Secrets
 ===========
 
 Prevents you from committing passwords and other sensitive information to a git repository.
